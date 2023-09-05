@@ -148,9 +148,9 @@ const keyUpMapper = {
 
     "]" : () => handleMouseUp(keys[21]),
 
-    "l": () => handleMouseUp(keys[22]),
+    "l": () => handleMouseUp(keys[23]),
 
-    "ç" : () => handleMouseUp(keys[23])
+    "ç" : () => handleMouseUp(keys[22])
 
 };
 
